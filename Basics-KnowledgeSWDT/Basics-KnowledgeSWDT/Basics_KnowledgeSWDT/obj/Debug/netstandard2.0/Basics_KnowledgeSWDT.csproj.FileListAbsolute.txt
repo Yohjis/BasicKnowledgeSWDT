@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Basics-KnowledgeSWDT\Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\bin\Debug\netstandard2.0\Basics_KnowledgeSWDT.deps.json
+C:\Users\User\source\repos\Basics-KnowledgeSWDT\Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\bin\Debug\netstandard2.0\Basics_KnowledgeSWDT.dll
+C:\Users\User\source\repos\Basics-KnowledgeSWDT\Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\obj\Debug\netstandard2.0\Basics_KnowledgeSWDT.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Basics-KnowledgeSWDT\Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\obj\Debug\netstandard2.0\Basics_KnowledgeSWDT.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basics-KnowledgeSWDT\Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\obj\Debug\netstandard2.0\Basics_KnowledgeSWDT.AssemblyInfo.cs

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics_KnowledgeSWDT", "Basics-KnowledgeSWDT\Basics_KnowledgeSWDT\Basics_KnowledgeSWDT.csproj", "{432EA6A8-23BD-4E92-A225-BFB37B7C1AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics_KnowledgeSWDT.Test", "Basics-KnowledgeSWDT\Basics_KnowledgeSWDT.Test\Basics_KnowledgeSWDT.Test.csproj", "{6A4DF649-92FC-4046-8D96-F613D110C97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432EA6A8-23BD-4E92-A225-BFB37B7C1AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432EA6A8-23BD-4E92-A225-BFB37B7C1AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432EA6A8-23BD-4E92-A225-BFB37B7C1AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432EA6A8-23BD-4E92-A225-BFB37B7C1AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4DF649-92FC-4046-8D96-F613D110C97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4DF649-92FC-4046-8D96-F613D110C97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4DF649-92FC-4046-8D96-F613D110C97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4DF649-92FC-4046-8D96-F613D110C97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88D3905-1063-4A14-A345-D193A4B19561}
+	EndGlobalSection
+EndGlobal
